@@ -4,3 +4,9 @@ class Player
   def initialize(name)
     @name = name
   end
+
+  def guess
+    print "#{@name}, guess a letter: "
+    gets.chomp.downcase
+  end
+end
