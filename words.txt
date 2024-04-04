@@ -1,0 +1,215 @@
+apple
+banana
+orange
+pineapple
+strawberry
+kiwi
+mango
+grape
+lemon
+lime
+peach
+cherry
+watermelon
+blueberry
+raspberry
+blackberry
+apricot
+avocado
+coconut
+fig
+grapefruit
+guava
+lychee
+papaya
+passionfruit
+pear
+plum
+pomegranate
+tangerine
+cantaloupe
+honeydew
+nectarine
+cranberry
+elderberry
+gooseberry
+persimmon
+starfruit
+acorn
+butternut
+cashew
+chestnut
+hazelnut
+macadamia
+pecan
+peanut
+almond
+walnut
+pistachio
+beet
+broccoli
+carrot
+cauliflower
+celery
+cucumber
+eggplant
+lettuce
+mushroom
+onion
+potato
+radish
+spinach
+squash
+tomato
+zucchini
+artichoke
+asparagus
+bell pepper
+brussels sprout
+cabbage
+corn
+green bean
+kale
+leek
+okra
+pea
+pumpkin
+rhubarb
+sweet potato
+turnip
+yam
+arugula
+bok choy
+collard greens
+endive
+escarole
+frisee
+iceberg lettuce
+mache
+mesclun
+mustard greens
+radicchio
+sorrel
+swiss chard
+watercress
+barley
+buckwheat
+bulgur
+couscous
+farro
+millet
+oatmeal
+polenta
+quinoa
+rice
+wheat berries
+amaranth
+baguette
+biscuit
+croissant
+bagel
+breadstick
+ciabatta
+focaccia
+naan
+pita
+rye bread
+sourdough
+wheat bread
+white bread
+whole grain bread
+dinner roll
+hot dog bun
+hamburger bun
+sandwich bread
+tortilla
+waffle
+pancake
+crepe
+french toast
+muffin
+scone
+popover
+biscuit
+croissant
+bagel
+breadstick
+ciabatta
+focaccia
+naan
+pita
+rye bread
+sourdough
+wheat bread
+white bread
+whole grain bread
+dinner roll
+hot dog bun
+hamburger bun
+sandwich bread
+tortilla
+waffle
+pancake
+crepe
+french toast
+muffin
+scone
+popover
+cake
+cupcake
+pie
+tart
+cheesecake
+brownie
+cookie
+biscotti
+macaron
+doughnut
+eclair
+fritter
+turnover
+strudel
+crumble
+cobbler
+baklava
+mille-feuille
+tiramisu
+trifle
+parfait
+custard
+pudding
+flan
+mousse
+souffle
+creme brulee
+ice cream
+sorbet
+gelato
+frozen yogurt
+sherbet
+popsicle
+granita
+slushie
+smoothie
+milkshake
+latte
+cappuccino
+espresso
+americano
+macchiato
+mocha
+affogato
+frappe
+chai
+matcha
+hot chocolate
+tea
+coffee
+water
+lemonade
+orange juice
+apple cider
+grape juice
+cranberry juice
+pomegranate juice
+pineapple juice
